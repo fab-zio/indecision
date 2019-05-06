@@ -1,7 +1,6 @@
 import React from 'react';
 
-//STATELESS component
-// Implict function
+
 const Action = (props) => (
     <div>
         <button
@@ -13,18 +12,5 @@ const Action = (props) => (
       </button>
     </div>
 );
-//  class Action extends React.Component {
-//     render() {
-//         return (
-//             <div>
-//                 <button
-//                     onClick={this.props.handlePick}
-//                     disabled={!this.props.hasOptions}
-//                 >
-//                     What should I do?
-//         </button>
-//             </div>
-//         );
-//     }
-// }
+
 export default Action;

@@ -1,5 +1,7 @@
-# indecision app
-React App for decision making
+# Indecision app
+It is a different to do list for making a decision 
+No Backend create by React App 
 
 ### Installation
-> npm install
+> Yarn install
+> Yarn dev server

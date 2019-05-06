@@ -1,5 +1,4 @@
 import React from 'react';
-///////////Stateless Functional Component///////////////////
 
 const Header = (props) => {
     return (

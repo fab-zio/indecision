@@ -2,7 +2,6 @@ import React from 'react';
 import Option from './Option';
 
 
-//implicit (whitout return)
 const Options = (props) => (
     <div>
         <div className="widget-header">
