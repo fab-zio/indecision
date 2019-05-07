@@ -1,7 +1,16 @@
 # Indecision app
+**Create an interactive to-do-list application**
+
 It is a different to do list for making a decision 
-No Backend create by React App 
+using React, Sass,  
 
 ### Installation
-> Yarn install
-> Yarn dev server
+1. Execute on your terminal: `yarn install`;
+2. Execute: `yarn dev-server`;
+3. Open [localhost:8080](http://localhost:8080/) on your browser;
+
+
+### Demo
+
+
+<img alt="side-by-side" src="https://res.cloudinary.com/ddrvpl4zh/image/upload/v1557233261/SampleIndecisionApp.png">
